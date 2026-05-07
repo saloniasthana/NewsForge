@@ -1,7 +1,7 @@
 # NewsForge
 
 ## Live Demo 
-https://news-forge-cikt44ctl-saloniasthanas-projects.vercel.app/
+https://news-forge-alpha.vercel.app/
 
 A full-stack MERN application that scrapes top stories from Hacker News and allows users to bookmark stories using JWT authentication.
 
